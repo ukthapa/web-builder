@@ -1,0 +1,39 @@
+{
+  "name": "web-builder",
+  "version": "1.0.0",
+  "description": "Static website builder using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukthapa/web-builder.git"
+  },
+  "author": "Uttam Kumar Thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukthapa/web-builder/issues"
+  },
+  "homepage": "https://github.com/ukthapa/web-builder#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^2.18.7",
+    "font-awesome": "^4.7.0",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-front-matter": "^1.3.0",
+    "gulp-marked": "^1.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-nunjucks": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-wrap": "^0.13.0",
+    "jquery-1x": "^1.12.1",
+    "marked": "^0.3.6",
+    "nunjucks": "^3.0.0",
+    "nunjucks-markdown": "^2.0.1"
+  }
+}
